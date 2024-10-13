@@ -1,5 +1,7 @@
 # THIS MODULE IS NOT SUPPORTED IN v11+
 
+# Consider using [https://foundryvtt.com/packages/pathmuncher](https://foundryvtt.com/packages/pathmuncher) instead
+
 # Foundry VTT Pathbuilder2e Import
 A module for Foundry VTT importing Pathbuilder 2e characters.
 
